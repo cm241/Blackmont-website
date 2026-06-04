@@ -1,0 +1,13 @@
+<svg width="720" height="140" viewBox="0 0 720 140" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Blackmont Group logo">
+  <g>
+    <path d="M30 108V28H72C96 28 113 40 113 59C113 71 106 80 95 84C109 88 118 99 118 114C118 137 99 152 67 152H30Z" fill="currentColor" transform="translate(0 -18) scale(0.9)"/>
+    <path d="M52 76H74C82 76 87 72 87 65C87 58 82 54 74 54H52V76Z" fill="transparent" transform="translate(0 -18) scale(0.9)"/>
+    <path d="M52 120H79C88 120 94 115 94 107C94 99 88 94 79 94H52V120Z" fill="transparent" transform="translate(0 -18) scale(0.9)"/>
+    <rect x="8" y="8" width="108" height="108" rx="26" stroke="currentColor" stroke-width="8"/>
+  </g>
+
+  <g fill="currentColor">
+    <text x="150" y="63" font-family="Cormorant Garamond, Georgia, serif" font-size="52" font-weight="600" letter-spacing="1.2">Blackmont Group</text>
+    <text x="153" y="103" font-family="Manrope, Inter, Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="3.6">YOUR ONE STOP PROPERTY SHOP</text>
+  </g>
+</svg>
