@@ -97,13 +97,14 @@ button, input, textarea { font: inherit; }
 .brand {
   display: inline-flex;
   align-items: center;
-  gap: 0.9rem;
+  gap: 0;
 }
 
 .brand-mark {
-  width: 160px;
+  width: 280px;
   height: auto;
   object-fit: contain;
+  display: block;
 }
 
 .brand-frame {
