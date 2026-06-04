@@ -101,11 +101,11 @@ button, input, textarea { font: inherit; }
 }
 
 .brand-mark {
-  width: 280px;
+  width: 520px;
   height: auto;
-  object-fit: contain;
   display: block;
 }
+
 
 .brand-frame {
   fill: none;
